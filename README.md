@@ -5,6 +5,8 @@ Knee arthritis, a common joint disease, leads to cartilage breakdown, pain, and 
 
 ## Data Preparation
 
+### Dataset Link: https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity
+
 ### Dataset Understanding
 The dataset initially contains five classes of knee osteoarthritis severity, with the following distribution:
 

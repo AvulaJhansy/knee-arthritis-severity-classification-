@@ -54,8 +54,5 @@ The model training included 10 epochs, with early stopping to avoid overfitting.
 ### Test Results
 After training, the model achieved a test accuracy of **92.33%**, indicating effective classification of knee arthritis severity.
 
-## Summary of Results
-The cascading model of EfficientNet, ResNet, and DenseNet demonstrated strong performance with minimal misclassification on severe cases. This approach significantly improved accuracy compared to using individual models alone.
-
 ## Conclusion
-This project successfully implemented a robust, automated method for classifying knee arthritis severity from X-ray images. By leveraging multiple CNN architectures in a cascading model, we achieved high accuracy and practical relevance for assisting in medical diagnostics. Future work may explore further refinement and validation on larger, more diverse datasets.
+This project successfully implemented a robust, automated method for classifying knee arthritis severity from X-ray images. By leveraging multiple CNN architectures in a cascading model, we achieved high accuracy.
